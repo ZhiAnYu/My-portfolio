@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is **Anastasiya** and I'm student of **__Netology__**, _jd-90_ group.
+My name is **Anastasiya** and I'm student of **Netology**, _jd-90_ group.
 
 I hope my learning will perfectly end!
 🥺🥺🥺
